@@ -1,0 +1,170 @@
+
+
+.sm-icons {
+  flex-direction: row;
+}
+@media only screen and (max-width: 960px) {
+  .sm-icons .nav-item {
+    padding-right: 1em;
+  }
+}
+
+.desc-travel {
+  font-size: 1rem;
+}
+p {
+font-size: 1.3rem;
+}
+
+.cor-footer {
+background-image: linear-gradient(30deg, #323D93 10%, #03A8DB 60%);
+}
+
+.carousel-item{
+background-color: #03A8DB;
+}
+
+.comments {
+background-position: 50%;
+background-position-y: 115%;
+background-repeat: no-repeat;
+background-size: auto 60%;
+}
+
+.comments .gliderComment {
+background-image: initial;
+background-color: #03A8DB;
+border-color: #fff;
+border-radius: 10px;
+height: 85%;
+margin: 15px;
+padding: 20px;
+}
+
+.card {
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(96, 134, 181, .3);
+  margin-top: 20px;
+  text-align: center;
+}
+
+.card_body {
+  font-size: 0;
+  padding: 1.0rem;
+}
+
+.card_title {
+  font-size: 2rem;
+  margin: 0 0;
+}
+
+.countdown_section {
+  display: inline-block;
+  margin-left: 4px;
+}
+
+.countdown_section:first-child {
+  margin-left: 0;
+}
+
+.countdown_section .value {
+  background-color: #333;
+  border-radius: 10px;
+  font-size: 22px;
+  color: #ffc107;
+  line-height: 85px;
+  text-align: center;
+  height: 85px;
+  width: 85px;
+}
+
+.countdown_label {
+  font-size: 10px;
+  padding-top: 1px;
+  text-align: center;
+}
+
+.black{
+  background-color: rgb(192, 41, 41);
+  background: url(../Assets/banner_promo_natal.png);
+}
+
+.countdown-container {
+  display: flex;
+}
+
+.big-text {
+  font-size: 2.6rem;
+  color: #fff;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.countdown-container > div {
+  margin: 0 1rem;
+  text-align: center;
+  box-sizing: border-box;
+  color: #fff;
+  min-width: 20px;
+}
+
+.brand {
+  margin: 15px;
+}
+
+.img-parceiros {
+  width: 100%;
+}
+
+.card-tipos {
+  background-color: #03A8DB;
+  color: #fff;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 5px;
+}
+
+.paragrafo-tipos-coberturas b {
+  color: #03A8DB;;
+}
+
+.paragrafo-tipos-coberturas {
+  text-align: center;
+}
+
+.brand-prime p {
+  text-align: justify;
+  color: #3a3a3a;
+}
+
+.brand-parceiros p {
+  text-align: justify;
+  color: #3a3a3a;
+  padding: 25px 50px 10px 50px;
+}
+
+.carrousel-edit {
+  padding: 50px;
+  background-color: #fff;
+}
+
+.carrousel-caption-edit {
+  position: initial;
+}
+
+.paragrafo-origem p{
+  font-size: 18px;
+  text-align: center;
+}
+
+.btn-prime{
+  background-color: #fff;
+}
